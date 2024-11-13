@@ -1,0 +1,5 @@
+﻿  rock.paper.szrss.cpp
+C:\Users\USER\source\repos\rock.paper.szrss\rock.paper.szrss\rock.paper.szrss.cpp(57,1): warning C4715: 'result': not all control paths return a value
+C:\Users\USER\source\repos\rock.paper.szrss\rock.paper.szrss\rock.paper.szrss.cpp(38,1): warning C4715: 'thePick': not all control paths return a value
+C:\Users\USER\source\repos\rock.paper.szrss\rock.paper.szrss\rock.paper.szrss.cpp(91,1): warning C4715: 'Again': not all control paths return a value
+  rock.paper.szrss.vcxproj -> C:\Users\USER\source\repos\rock.paper.szrss\x64\Debug\rock.paper.szrss.exe
